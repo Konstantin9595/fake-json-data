@@ -1,39 +1,31 @@
 {
-    "api": {
-        "products": [
-            {
-                "id": 1, 
-                "title": "product1", 
-                "img": "img1.png", 
-                "text": "lorem ipsum 1"
-            }, 
-            {
-                "id": 2, 
-                "title": "product2", 
-                "img": "img2.png", 
-                "text": "lorem ipsum 2"
-            },
-            {
-                "id": 3, 
-                "title": "product3", 
-                "img": "img1.png", 
-                "text": "lorem ipsum 3"
-            }, 
-            {
-                "id": 4, 
-                "title": "product4", 
-                "img": "img2.png", 
-                "text": "lorem ipsum 4"
-            }
-        ],
-        "register": [
-
-        ],
-        "login": [
-
-        ],
-        "logout": [
-
-        ]
-    }
+    "products": [
+        {
+            "id": 1,
+            "title": "product1",
+            "img": "img1.png",
+            "text": "lorem ipsum 1"
+        },
+        {
+            "id": 2,
+            "title": "product2",
+            "img": "img2.png",
+            "text": "lorem ipsum 2"
+        },
+        {
+            "id": 3,
+            "title": "product3",
+            "img": "img1.png",
+            "text": "lorem ipsum 3"
+        },
+        {
+            "id": 4,
+            "title": "product4",
+            "img": "img2.png",
+            "text": "lorem ipsum 4"
+        }
+    ],
+    "register": [],
+    "login": [],
+    "logout": []
 }
