@@ -4,25 +4,29 @@
             "id": 1,
             "title": "product1",
             "img": "img1.png",
-            "text": "lorem ipsum 1"
+            "text": "lorem ipsum 1",
+            "price": 1200
         },
         {
             "id": 2,
             "title": "product2",
             "img": "img2.png",
-            "text": "lorem ipsum 2"
+            "text": "lorem ipsum 2",
+            "price": 830
         },
         {
             "id": 3,
             "title": "product3",
             "img": "img1.png",
-            "text": "lorem ipsum 3"
+            "text": "lorem ipsum 3",
+            "price": 750
         },
         {
             "id": 4,
             "title": "product4",
             "img": "img2.png",
-            "text": "lorem ipsum 4"
+            "text": "lorem ipsum 4",
+            "price": 2750
         }
     ],
     "register": [],
